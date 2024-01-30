@@ -6,7 +6,7 @@ public class Main {
         
     
     Person mPerson = new Person();
-    mPerson.setName("Petani Kode");
-        System.out.println("Person Name: " + mPerson.getName());
+    mPerson.setName("Zilu");
+        System.out.println("My Name: " + mPerson.getName());
     }
 }
